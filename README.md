@@ -4,4 +4,5 @@
 
 본 저장소는 Git/Github 실습을 위한 저장소입니다...
 
-+ Github : https://https://github.com/mhlee1486/hello-smu
++ Github : https://github.com/mhlee1486/hello-smu
++ Github : https://github.com/mhlee1486/React
